@@ -6,6 +6,7 @@ public class Main {
         int n = 32_000;
         int k = 64_000;
         int j = 128_000;
+        int m = 256_000;
         
         Integer[] tab = tilfeldigTab(n);
         Integer [] tab1 = tilfeldigTab(k);
